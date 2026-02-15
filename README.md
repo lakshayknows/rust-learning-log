@@ -1,5 +1,4 @@
-````md
-# rust-learning-log
+rust# rust-learning-log
 
 A personal learning log for studying Rust deeply and deliberately.
 
@@ -28,7 +27,7 @@ rust-learning-log/
 ├── playground/     // Experiments, scratch code, and small snippets
 ├── reflections/    // Periodic learning reflections
 └── README.md
-````
+```
 
 Each directory serves a distinct purpose:
 
@@ -36,6 +35,16 @@ Each directory serves a distinct purpose:
 * **notes/** → mental models and insights
 * **playground/** → exploration without pressure
 * **reflections/** → how understanding evolves over time
+
+---
+
+## Playground Highlights
+
+Recent experiments and small projects added to the `playground/` directory:
+
+* [**Mini Stats Calculator**](./playground/mini_stats_calculator/README.md) - A CLI tool for basic statistics.
+* [**Mini Stats (Structs)**](./playground/mini_stats_struct/README.md) - Re-implementation of the stats calculator using Rust structs and metadata.
+* [**My Project (Backyard)**](./playground/my_project/README.md) - exploring modules, crates, and project organization.
 
 ---
 
