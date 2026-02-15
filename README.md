@@ -1,4 +1,4 @@
-rust# rust-learning-log
+# rust-learning-log
 
 A personal learning log for studying Rust deeply and deliberately.
 
@@ -10,7 +10,6 @@ not speed, not streaks, and not performance.
 ## Approach
 
 - Read the Rust Book
-- Solve Rustlings exercises independently
 - Write notes that explain why things work, not just what works
 
 This repository is not a tutorial.  
@@ -22,7 +21,6 @@ It is a record of thinking.
 
 ```text
 rust-learning-log/
-├── rustlings/      // Solved Rustlings exercises (practice)
 ├── notes/          // Conceptual notes written in my own words
 ├── playground/     // Experiments, scratch code, and small snippets
 ├── reflections/    // Periodic learning reflections
@@ -31,7 +29,6 @@ rust-learning-log/
 
 Each directory serves a distinct purpose:
 
-* **rustlings/** → repetition and hands-on work
 * **notes/** → mental models and insights
 * **playground/** → exploration without pressure
 * **reflections/** → how understanding evolves over time
