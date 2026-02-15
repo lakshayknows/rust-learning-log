@@ -1,3 +1,4 @@
+````md
 # rust-learning-log
 
 A personal learning log for studying Rust deeply and deliberately.
@@ -91,3 +92,4 @@ it signals seriousness without noise.
 
 Ship it. Then go back to Rust.
 ```
+````
