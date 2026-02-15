@@ -93,3 +93,5 @@ it signals seriousness without noise.
 Ship it. Then go back to Rust.
 ```
 ````
+
+*the design of this readme is on purpose because i like it :)
